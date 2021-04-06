@@ -17,20 +17,14 @@ body {
 }
 
 nav {
-  background-color: #5793fd;
+  background-color: #0a0a0a;
+  border-bottom:#06e7f7 solid 5px;  
   color: #ffffff;
   height: 80px;
   padding: 10px;
   line-height: 3;
   font-size: 1.2rem;
-}
-.header {    
-  background-color: #39393b;
-  
-  border-bottom:#0606f7 solid 5px;       
-  padding: 1rem 1rem;
-  margin-bottom: 1rem;
- 
+  font-weight: bolder;
 }
 .dashboard {
   font-size: larger;
