@@ -24,7 +24,18 @@ nav {
   line-height: 3;
   font-size: 1.2rem;
 }
-
+.header {    
+  background-color: #39393b;
+  
+  border-bottom:#0606f7 solid 5px;       
+  padding: 1rem 1rem;
+  margin-bottom: 1rem;
+ 
+}
+.dashboard {
+  font-size: larger;
+  float: right;
+}
 a,
 a:hover,
 a:active,

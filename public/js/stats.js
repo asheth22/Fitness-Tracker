@@ -149,6 +149,9 @@ function populateChart(data) {
         display: true,
         text: 'Exercises Performed',
       },
+      legend: {
+        onClick: (e) => e.stopPropagation()
+       },
     },
   });
 
@@ -169,6 +172,9 @@ function populateChart(data) {
         display: true,
         text: 'Exercises Performed',
       },
+      legend: {
+        onClick: (e) => e.stopPropagation()
+       },
     },
   });
 }
