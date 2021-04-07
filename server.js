@@ -16,7 +16,7 @@ app.use(express.static("public"));
 
 // mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/userdb", { useNewUrlParser: true });
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhostJHUBootcamp',
+  process.env.MONGODB_URI || "mongodb://localhost/userdb",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
