@@ -13,9 +13,9 @@ Fitness is a journey. Tracking workouts gives you a way to track your progress, 
 ## Mock-up
 These images gives you a glimpse of the homepage, add workout page and dashboard page:
 
-* [Homepage](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/homepage.png) 
+* ![Homepage](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/homepage.png) 
 
-* [Workout](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/addworkout.png) 
+* ![Workout](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/addworkout.png) 
 
-* [Dashboard](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/dashboard.png) 
+* ![Dashboard](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/dashboard.png) 
 
