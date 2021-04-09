@@ -15,7 +15,7 @@ These images gives you a glimpse of the homepage, add workout page and dashboard
 
   ![Homepage](https://user-images.githubusercontent.com/74203959/114115588-17bfa100-98b1-11eb-8817-e7f620c8f2d3.png)
 
-* ![Workout](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/addworkout.png) 
+  ![Workout](https://user-images.githubusercontent.com/74203959/114115756-69682b80-98b1-11eb-952b-7cd50169cc7c.png)
 
-* ![Dashboard](https://github.com/asheth22/Fitness-Tracker/tree/main/public/assets/dashboard.png) 
+  ![Dashboard](https://user-images.githubusercontent.com/74203959/114115808-8866bd80-98b1-11eb-8667-7587ff62dbd3.png)
 
